@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Son2k5/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Son2k5/LeetCode_Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Son2k5/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [3379-score-of-a-string](https://github.com/Son2k5/LeetCode_Practice/tree/master/3379-score-of-a-string) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Son2k5/LeetCode_Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Son2k5/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Son2k5/LeetCode_Practice/tree/master/0125-valid-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Son2k5/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
