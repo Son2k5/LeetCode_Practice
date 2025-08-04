@@ -1,4 +1,8 @@
 # LeetCode_Practice
+
+This is a collection of 250 leetcode lessons by youtuber Neetcode to help you get acquainted and practice with algorithms.
+The exercises use three main languages: C#, Javascript and Typescript to work.
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
 <!---LeetCode Topics Start-->
