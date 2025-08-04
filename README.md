@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Son2k5/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Son2k5/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -33,12 +34,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Son2k5/LeetCode_Practice/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Son2k5/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Son2k5/LeetCode_Practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Son2k5/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Son2k5/LeetCode_Practice/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -50,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Son2k5/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
