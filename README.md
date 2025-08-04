@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Son2k5/LeetCode_Practice/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Son2k5/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Son2k5/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0816-design-hashset](https://github.com/Son2k5/LeetCode_Practice/tree/master/0816-design-hashset) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Son2k5/LeetCode_Practice/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Son2k5/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Son2k5/LeetCode_Practice/tree/master/0242-valid-anagram) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Son2k5/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Son2k5/LeetCode_Practice/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
