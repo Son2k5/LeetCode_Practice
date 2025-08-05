@@ -1,0 +1,22 @@
+function calPoints(ops: string[]): number {
+    const stack = [];
+    for (let op of ops) {
+        switch (op) {
+            case "+":
+                stack.push(stack[stack.length - 1] + stack[stack.length - 2]);
+                break;
+            case "D":
+                stack.push(stack[stack.length - 1] * 2);
+                break;
+            case "C":
+                stack.pop();
+                break;
+            default:
+                stack.push(parseInt(op));
+                break;
+
+
+        }
+    }
+    return stack.reduce((a, b) => a + b, 0)
+};
