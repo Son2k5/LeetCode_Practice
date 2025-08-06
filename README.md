@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Son2k5/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Son2k5/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Son2k5/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/Son2k5/LeetCode_Practice/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/Son2k5/LeetCode_Practice/tree/master/0816-design-hashset) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Son2k5/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Son2k5/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Son2k5/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Son2k5/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/Son2k5/LeetCode_Practice/tree/master/0816-design-hashset) |
@@ -124,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Son2k5/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Son2k5/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
