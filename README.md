@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Son2k5/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Son2k5/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0605-can-place-flowers](https://github.com/Son2k5/LeetCode_Practice/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Son2k5/LeetCode_Practice/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/Son2k5/LeetCode_Practice/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/0948-sort-an-array) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Son2k5/LeetCode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Son2k5/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Son2k5/LeetCode_Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/Son2k5/LeetCode_Practice/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
