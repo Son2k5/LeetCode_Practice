@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/Son2k5/LeetCode_Practice/tree/master/0965-unique-email-addresses) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Son2k5/LeetCode_Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3379-score-of-a-string](https://github.com/Son2k5/LeetCode_Practice/tree/master/3379-score-of-a-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Son2k5/LeetCode_Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Son2k5/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/Son2k5/LeetCode_Practice/tree/master/0816-design-hashset) |
 | [0965-unique-email-addresses](https://github.com/Son2k5/LeetCode_Practice/tree/master/0965-unique-email-addresses) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Son2k5/LeetCode_Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Son2k5/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Son2k5/LeetCode_Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
 | ------- |
