@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/Son2k5/LeetCode_Practice/tree/master/0965-unique-email-addresses) |
 | [2058-concatenation-of-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Son2k5/LeetCode_Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Simulation
 |  |
 | ------- |
