@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Son2k5/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Son2k5/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Son2k5/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Son2k5/LeetCode_Practice/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Son2k5/LeetCode_Practice/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/Son2k5/LeetCode_Practice/tree/master/0816-design-hashset) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Son2k5/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Son2k5/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Son2k5/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Son2k5/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/Son2k5/LeetCode_Practice/tree/master/0816-design-hashset) |
 | [0965-unique-email-addresses](https://github.com/Son2k5/LeetCode_Practice/tree/master/0965-unique-email-addresses) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Son2k5/LeetCode_Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Son2k5/LeetCode_Practice/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Son2k5/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Son2k5/LeetCode_Practice/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Son2k5/LeetCode_Practice/tree/master/0605-can-place-flowers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Son2k5/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
