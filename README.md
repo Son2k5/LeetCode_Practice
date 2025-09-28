@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/Son2k5/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Son2k5/LeetCode_Practice/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Son2k5/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Son2k5/LeetCode_Practice/tree/master/0219-contains-duplicate-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Son2k5/LeetCode_Practice/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Son2k5/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Son2k5/LeetCode_Practice/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Son2k5/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Son2k5/LeetCode_Practice/tree/master/0496-next-greater-element-i) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Son2k5/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
