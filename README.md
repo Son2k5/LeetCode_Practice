@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Son2k5/LeetCode_Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Son2k5/LeetCode_Practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Son2k5/LeetCode_Practice/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Son2k5/LeetCode_Practice/tree/master/0392-is-subsequence) |
 | [0965-unique-email-addresses](https://github.com/Son2k5/LeetCode_Practice/tree/master/0965-unique-email-addresses) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Son2k5/LeetCode_Practice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3379-score-of-a-string](https://github.com/Son2k5/LeetCode_Practice/tree/master/3379-score-of-a-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Son2k5/LeetCode_Practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Son2k5/LeetCode_Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Son2k5/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/Son2k5/LeetCode_Practice/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Son2k5/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Son2k5/LeetCode_Practice/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
