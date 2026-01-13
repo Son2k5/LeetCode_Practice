@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Son2k5/LeetCode_Practice/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Son2k5/LeetCode_Practice/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/Son2k5/LeetCode_Practice/tree/master/0816-design-hashset) |
+| [0881-boats-to-save-people](https://github.com/Son2k5/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/Son2k5/LeetCode_Practice/tree/master/0965-unique-email-addresses) |
 | [2058-concatenation-of-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Son2k5/LeetCode_Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Son2k5/LeetCode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Son2k5/LeetCode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/Son2k5/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Son2k5/LeetCode_Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Son2k5/LeetCode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Son2k5/LeetCode_Practice/tree/master/0392-is-subsequence) |
+| [0881-boats-to-save-people](https://github.com/Son2k5/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
 ## Trie
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Son2k5/LeetCode_Practice/tree/master/0605-can-place-flowers) |
+| [0881-boats-to-save-people](https://github.com/Son2k5/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
 ## Monotonic Stack
 |  |
 | ------- |
