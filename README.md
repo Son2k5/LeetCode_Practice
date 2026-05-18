@@ -41,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Son2k5/LeetCode_Practice/tree/master/0881-boats-to-save-people) |
 | [0948-sort-an-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/0948-sort-an-array) |
 | [0965-unique-email-addresses](https://github.com/Son2k5/LeetCode_Practice/tree/master/0965-unique-email-addresses) |
+| [1929-concatenation-of-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Son2k5/LeetCode_Practice/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Son2k5/LeetCode_Practice/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/Son2k5/LeetCode_Practice/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
